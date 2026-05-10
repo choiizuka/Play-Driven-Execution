@@ -135,6 +135,11 @@ $$R_{total} = R_{clock} \times R_{parallel} \times R_{dopamine} \times R_{circui
 4. [M-008: Variable Brain Theory](https://github.com/choiizuka/Variable-Brain-Theory)
 5. [M-009: Play-Driven Execution](https://github.com/choiizuka/Play-Driven-Execution/)
 
+### その他のログ
+
+1. [焼肉の投稿]:(https://x.com/choappceo/status/2053408040842616902?s=20)
+2. [Youtubeリアルタイムライブログ]:(https://www.youtube.com/watch?v=i55bz5Ca0I4)
+
 ---
 
 ## 10. Revision Policy / 改訂ポリシー
