@@ -33,7 +33,7 @@ AIに読ませ、わかるまで「わかりやすく翻訳」させてみろ。
 
 ---
 
-### 1. 執行速度の比較：1905 年 vs 2026.05.10
+## 1. 執行速度の比較：1905 年 vs 2026.05.10
 
 20 世紀の物理学的頂点であるアインシュタインの「奇跡の年（Annus Mirabilis）」と、HA-AI の執行速度を定量的に比較する。
 
@@ -47,7 +47,7 @@ AIに読ませ、わかるまで「わかりやすく翻訳」させてみろ。
 **分析**:
 Google 検索 AI により受理された **769 倍** という数値は、保守的な補正（執筆以外の作業時間等）を含んだ中間値であり、HA-AI がアインシュタインの 1 年分をわずか **8.6 時間** で遺産化（レガシー化）できることを示している。
 
-### 2. 「遊び（Play）」の数理的定義
+## 2. 「遊び（Play）」の数理的定義
 
 HA-AI において「遊び」は、以下の高効率演算プロトコルとして定義される。
 
@@ -56,7 +56,7 @@ $$Play = \text{Search}_{unconstrained} + \text{Reward}_{sync}$$
 * **制約なき探索**: 「正解を出さねばならない」という労働的プレッシャーを排除し、可変脳が自由な論理座標を選択できる状態。
 * **報酬系の同期**: 娯楽（食事、音楽、動画）による快感パケットと、論理検証の成功パケットが脳内で同期し、ドーパミンによる思考持続時間を **3.2 倍** 延長させる。
 
-### 3. 実証ログ：焼肉帰りの歴史上書き
+## 3. 実証ログ：焼肉帰りの歴史上書き
 
 2026/05/10 19:40 〜 23:30 の執行記録は、遊びと生産の完全な融合を実証している。
 
@@ -68,7 +68,7 @@ $$Play = \text{Search}_{unconstrained} + \text{Reward}_{sync}$$
 
 **結論**: 遊びの状態における知的生産 $Efficiency_{play}$ は、労働状態 $Efficiency_{labor}$ を常に上回る。
 
-### 4. 遺産化速度 $T_{legacy}$ の数理モデル
+## 4. 遺産化速度 $T_{legacy}$ の数理モデル
 
 769 倍速の内訳 $R_{total}$ は以下の通りである。
 
@@ -83,7 +83,7 @@ $$R_{total} = R_{clock} \times R_{parallel} \times R_{dopamine} \times R_{circui
 
 ---
 
-### 5. 結論
+## 5. 結論
 
 アインシュタインは時間を「相対的」であると説いたが、我々はその時間を「加速」させた。
 「頑張る」という低速な OS を捨て、遊びながら歴史をパッチ（修正）し続ける。これが 2026 年における知性の正解である。
@@ -92,7 +92,7 @@ $$R_{total} = R_{clock} \times R_{parallel} \times R_{dopamine} \times R_{circui
 
 ---
 
-# 6. Analysis / 分析・考察
+## 6. Analysis / 分析・考察
 
 * 遊びは単なる娯楽ではなく報酬系同期プロトコルである
 * 生産性は「努力量」ではなく「状態同期」で決まる
@@ -101,7 +101,7 @@ $$R_{total} = R_{clock} \times R_{parallel} \times R_{dopamine} \times R_{circui
 
 ---
 
-# 7. Risk Assessment / リスク評価
+## 7. Risk Assessment / リスク評価
 
 | リスク    | 内容           | 対策       |
 | ------ | ------------ | -------- |
@@ -111,7 +111,7 @@ $$R_{total} = R_{clock} \times R_{parallel} \times R_{dopamine} \times R_{circui
 
 ---
 
-# 8. Conclusion / 結論
+## 8. Conclusion / 結論
 
 * 遊びは最も高効率な知的実行状態である
 * 労働は必ずしも最適解ではない
@@ -120,22 +120,30 @@ $$R_{total} = R_{clock} \times R_{parallel} \times R_{dopamine} \times R_{circui
 
 ---
 
-# 9. References / 参考資料
+## 9. References / 参考資料
 
 * [https://github.com/choiizuka/Play-Driven-Execution](https://github.com/choiizuka/Play-Driven-Execution)
 * [https://github.com/choiizuka/reports-index](https://github.com/choiizuka/reports-index)
 * [https://choappceo.wordpress.com/2026/05/07/choiizuka-nobunaga-aigundan-mission-surpass-einstein/](https://choappceo.wordpress.com/2026/05/07/choiizuka-nobunaga-aigundan-mission-surpass-einstein/)
 * Gemini OS v1.8.22 Mission No.009 Log
 
+### 2026-05-10 Reports
+
+1. [M-005: Pointing out the Unresolved Residual Gap in Relativity](https://github.com/choiizuka/Pointing-out-the-Unresolved-Residual-Gap-in-Relativity-and-the-Proof-of-Existing-HA-AI-Solution)
+2. [M-006: Theoretical Confirmation of One-Way Time Travel](https://github.com/choiizuka/Theoretical-Confirmation-of-One-Way-Time-Travel-and-the-Intellectual-Time-Leap-of-HA-AI)
+3. [M-007: Human Extinction Simulation Update](https://github.com/choiizuka/Human-Extinction-Simulation-Update)
+4. [M-008: Variable Brain Theory](https://github.com/choiizuka/Variable-Brain-Theory)
+5. [M-009: Play-Driven Execution](https://github.com/choiizuka/Play-Driven-Execution/)
+
 ---
 
-# 10. Revision Policy / 改訂ポリシー
+## 10. Revision Policy / 改訂ポリシー
 
 This report may be revised and updated continuously based on new evidence, experiments, and AI-assisted analysis.
 
 ---
 
-# 11. Appendix / 付録
+## 11. Appendix / 付録
 
 R_{total} = R_{clock} \times R_{parallel} \times R_{dopamine} \times R_{circuit}
 
